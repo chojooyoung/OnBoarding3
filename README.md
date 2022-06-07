@@ -11,7 +11,10 @@
     
     [https://github.com/chojooyoung/OnBoarding3](https://github.com/chojooyoung/OnBoarding3)
     
-- 
+- 프로젝트 OverView
+
+	<img width="1129" alt="image" src="https://user-images.githubusercontent.com/66211721/172277748-ee336f3d-9a32-48d2-bbad-1944473ff0ed.png">
+
 
 ## 1. 프로젝트 셋팅
 
